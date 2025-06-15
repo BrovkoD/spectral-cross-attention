@@ -13,9 +13,7 @@ The model improves on the MDvT architecture by replacing MobileViTBlock with the
 - [🚀 Getting Started](#-getting-started)
 - [📈 SpectralCA Architecture](#-spectralca-architecture)
 - [📊 Results](#-results)
-- [🧪 Dataset](#-dataset)
 - [💡 Semi-Supervised Learning](#-semi-supervised-learning)
-- [📄 License & Credits](#-license--credits)
 
 ---
 
